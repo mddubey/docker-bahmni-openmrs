@@ -1,0 +1,11 @@
+# To see the list of valid variables in Bahmni please refer to:
+# https://bahmni.atlassian.net/wiki/display/BAH/List+Of+Configurable+Installation+Variables
+
+timezone: Asia/Kolkata
+implementation_name: default
+selinux_state: disabled
+bahmni_repo_url: http://repo.mybahmni.org.s3-website-ap-southeast-1.amazonaws.com/rpm/bahmni/
+bahmni_support_group: bahmni_support 
+bahmni_support_user: bahmni_support 
+bahmni_password_hash: $1$IW4OvlrH$Kui/55oif8W3VZIrnX6jL1 
+docker: yes
